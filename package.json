@@ -1,0 +1,17 @@
+{
+  "name": "session2026",
+  "version": "1.0.0",
+  "description": "Projeto base Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sem testes definidos\" && exit 0",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/leandro3810/Session2026"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
